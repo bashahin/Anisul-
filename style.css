@@ -1,0 +1,96 @@
+
+.love{
+  font-size: 10rem;
+
+}
+.dot{
+    font-size: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style:italic;
+    font-weight:500;
+    font-language-override: initial;
+   color:red;
+
+}
+
+#section1{
+    background-color: rgb(230, 72, 72);width: 900px;height: 200px;
+    float: left;
+}
+ #section1 h1{
+   color:rgb(20, 4, 243); 
+   text-align: center;
+   font-family: monospace; 
+   font-size: 50px;
+   font-style: oblique;
+   font-weight: lighter;
+ }
+ #section1 p{
+
+    font-size: 20px;
+    font-family: serif;
+    color: cyan;
+ }
+
+#clear-div{
+
+    clear:both;
+}
+#section2{
+    background-color: darkolivegreen;width: 900px;height: 200px;
+    float: left;
+
+
+}
+div,h1,h2,p{
+  color: blueviolet;
+
+
+
+}
+pic > p{
+
+  color: aqua;
+}
+
+body{
+
+  
+  background-image:url("luv.jpg") ;
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size:cover;
+  background-attachment: fixed;
+
+
+
+}
+.love{
+  background-color: rgb(216, 231, 9);
+  display: inline;
+}
+.e1{
+width: 500px;
+margin: auto;
+border: 10px solid green;
+
+}
+.e2{
+  max-width: 1000px;
+margin: auto;
+border: 10px solid green;
+
+}
+.gradient-style{
+  height: 300px;
+  width: 50%;
+  background-image:linear-gradient(to right,red,blue,rgb(255, 0, 234),aqua,yellow,violet,rgb(243, 6, 184));
+}
+.gradient-style2{
+  height: 300px;
+  width: 40%;
+ background-image:radial-gradient( circle,red,blue,rgb(255, 0, 234),aqua,yellow,violet,rgb(243, 6, 184));
+}
+
+
+
